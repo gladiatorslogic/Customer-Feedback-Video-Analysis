@@ -2,7 +2,8 @@ from pytube import YouTube
 from pytube.cli import on_progress
 
 # where to save
-SAVE_PATH = "C:\\Users\\Ankit Mishra\\PycharmProjects\\VideoIntelligence"
+SAVE_PATH = "C:\\Users\\anuja.shukla\\PycharmProjects\\Customer-Feedback-Video-Analysis"
+
 
 # link of the video to be downloaded
 link = "https://www.youtube.com/watch?v=7m4zQpf3Ouo"
